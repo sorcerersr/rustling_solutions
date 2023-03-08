@@ -1,6 +1,6 @@
 # rustlings-solutions
 
-This is my take of solving the exercises of rustlings.
+This is my take of solving the exercises of rustlings (5.4.0) .
 
 
 Original rustlings README:
